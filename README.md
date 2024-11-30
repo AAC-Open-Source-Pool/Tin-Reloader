@@ -1,4 +1,4 @@
-# project title: Tin Reloader
+# Tin Reloader
 <h2>Team Details</h2>
 <b>Team Number: </b><p>24AACR26</p>
 <b>Senior Mentor:</b><p>Kranthi</p>
