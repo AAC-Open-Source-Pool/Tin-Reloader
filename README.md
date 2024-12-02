@@ -27,8 +27,7 @@ The TinReloader project addresses the challenge of managing water dispenser refi
 
 
 ## Requirements
-|||
-|--|--|
+
 ### Hardware
 - ESP32 Boards <br/>
 - Power Supply (batteries / power bank) <br/>
