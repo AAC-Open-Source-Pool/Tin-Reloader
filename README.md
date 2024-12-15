@@ -47,7 +47,7 @@ The TinReloader project addresses the challenge of managing water dispenser refi
 Step by step process of cloning the project, installments needed and how to use it
 
 - Clone the repository with `git clone https://github.com/AAC-Open-Source-Pool/Automated-Water-Delivery-System.git`
-- Wire the components as shown in the circuit diagram to establish the necessary connections as per circuit diagram. (Change Arduino with ESP 32)
+- Wire the components as shown in the circuit diagram to establish the necessary connections as per [circuit diagram](https://github.com/AAC-Open-Source-Pool/Tin-Reloader/blob/main/Imgs/CircuitDiagram.jpg). (Change Arduino with ESP 32)
 - Install all dependencies
 - Setup [BLYNK](https://blynk.cloud/dashboard/login) as per the virtual pins given in the code
 - Copy the `Auth Token` from the Devices pannel and paste in the code
